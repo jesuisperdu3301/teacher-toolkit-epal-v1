@@ -1,0 +1,13 @@
+{
+  "name": "Teacher Toolkit ΕΠΑΛ",
+  "short_name": "Toolkit ΕΠΑΛ",
+  "description": "Offline εκπαιδευτικό toolkit για ΕΠΑΛ: Impostor, Flashcards, Quiz, Random Wheel και βάσεις όρων.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#6d5dfc",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
